@@ -10,7 +10,7 @@
 <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-<title>Raphael Anderson RA</title>
+<title>Raphael Anderson </title>
 </head>
 
 <body>
@@ -19,7 +19,7 @@
 				  <nav role='navigation'>
        	 <a href="../../index.php">Home</a>
          
-          <a href="../../contato.php">Contato</a>
+         
         </nav>
 
              
